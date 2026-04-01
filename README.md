@@ -47,14 +47,6 @@ The project includes multiple visualizations such as:
 
 ---
 
-## 📁 Project Structure
-- `data/` → dataset
-- `notebooks/` → analysis notebook
-- `outputs/` → generated plots
-- `presentation/` → final PPT
-- `report/` → PDF report
-
----
 
 ## 💡 Conclusion
 This analysis demonstrates how data-driven insights can help optimize advertising strategies and improve ROI.
